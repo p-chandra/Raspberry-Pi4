@@ -5,3 +5,6 @@ https://security.stackexchange.com/questions/234469/how-can-i-exploit-a-buffer-o
 
 Pi 3
 https://samsclass.info/127/proj/ED413.htm
+
+
+https://learnbyexample.github.io/gnu-bre-ere-cheatsheet/
